@@ -8,7 +8,7 @@
     $conn = mysqli_connect($db_server,$db_user,$db_pass,$db_name);
 
     if($conn) {
-      echo "you areeeeeeeeeeeeeee connected";
+      echo "you areeeeeeeeexxxxxxxxaaaaaaaaaaaaxxxxxxxxxxxxxxxxxxxeeeeee connected";
     }
     else{
       echo "you are not connected";
